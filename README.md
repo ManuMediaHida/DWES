@@ -38,8 +38,7 @@ println("Hola");
 > ```
 
 Lenguaje | Inventor | Año
----------|----------|------
-
+---------:|:----------:|------
 Javascript|James |1995
 Java|Javme2|1995
 Python | Fan de Monthy | 2006 
