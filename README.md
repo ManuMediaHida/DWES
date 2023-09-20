@@ -28,7 +28,13 @@ Se veran los siguientes apartados:
 void main(String args[]){
 println("Hola");
 }
+```
 
->AVISO: Esto se debe de escribir en un terminal
->
->aaaaaaaaaa
+> AVISO: Esto se debe de escribir en un terminal
+> 
+> aaaaaaaaaa
+> ```javascript
+> var numero = 5
+> ```
+
+
