@@ -43,6 +43,6 @@ Javascript|James |1995
 Java|Javme2|1995
 Python | Fan de Monthy | 2006 
 
-![Lenguajes de programacion](assets/1.jpg)
-![Lenguajes de programacion2](assets/2.jpg)
-![Lenguajes de programacion3](Tema1/assets/3.jpg)
+- ![Lenguajes de programacion](assets/1.jpg)
+- ![Lenguajes de programacion2](assets/2.jpg)
+- ![Lenguajes de programacion3](Tema1/assets/3.jpg)
