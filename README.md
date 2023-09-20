@@ -36,7 +36,7 @@ println("Hola");
 > ```javascript
 > var numero = 5
 > ```
-
+---
 Lenguaje | Inventor | Año
 ---------:|:----------:|------
 Javascript|James |1995
