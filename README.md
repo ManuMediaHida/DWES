@@ -1,6 +1,6 @@
 #Apuntes de Desarrollo Web en Entorno Servidor
 
-[Enlace a mi linkedin] (https://www.linkedin.com/in/manuel-mediavilla-hidalgo-226199292/)
+[Enlace a mi linkedin](https://www.linkedin.com/in/manuel-mediavilla-hidalgo-226199292/)
 
 ## Tema 1
 En este tema se **verán** los ***conceptos básicos***
